@@ -3,7 +3,7 @@
 - Cell:+(506)6884001 
 - Email:mohamed.baioumy1@outlook.com
 
-Data Analyst | Advanced Analytics | Data Visualization | SQL | Python | Power PI | Looker | Tableau | Snowflake| Amazon Redshift | DBT | SSIS
+Data Analyst , Advanced Analytics , Data Visualization , SQL , Python , Power PI , Looker , Tableau , Snowflake , Amazon Redshift , DBT , SSIS
 
 # Summary
 Hard worker and highly motivated Data Analyst with experience in reporting, data analysis, and software development experience. 
