@@ -48,7 +48,7 @@ Excels at developing and monitoring metrics, identifying new signals, and perfor
 • Scheduled tutoring sessions and submitted bi-weekly timesheets for each student tutored
 • Skills: HTML5 · Python (Programming Language) · JavaScript · Cascading Style Sheets (CSS) · HTML · Java · SQL
 
-# Financial Reporting AnalystFinancial Reporting Analyst
+# Financial Reporting Analyst
 # FMI Group (Nov 2019 - Nov 2021)
 • Use SQL to generate reports.
 • Building finance reports for management. 
