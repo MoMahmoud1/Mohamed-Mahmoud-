@@ -5,7 +5,7 @@ Email:mohamed.baioumy1@outlook.com
 
 Data Analyst | Advanced Analytics | Data Visualization | SQL | Python | Power PI | Looker | Tableau | Snowflake| Amazon Redshift | DBT | SSIS
 
-#Summary
+# Summary
 Hard worker and highly motivated Data Analyst with experience in reporting, data analysis, and software development experience. 
 Excels at developing and monitoring metrics, identifying new signals, and performing deep analysis of systems. Solutions-oriented with deep attention to details.
 • Strong analytical and problem-solving skills developed though 4 years of post-secondary training in 
@@ -17,9 +17,9 @@ Excels at developing and monitoring metrics, identifying new signals, and perfor
 • Interpersonal, organizational, leadership and teamwork skills sharpened by more than 7 years of 
    experience in customer service and support.
    
-###Professional Experience 
-#Data Analyst
-#AMP Health(june 2022- November 2022)
+### Professional Experience 
+# Data Analyst
+# AMP Health(june 2022- November 2022)
 •SQL & DBT Proficiency: Mastery in SQL for seamless data manipulation and DBT expertise for creating reliable, modular data transformations, ensuring high-quality outputs. Proficient in data modeling to design efficient database structures.
 
 •Git Collaboration: Skilled in Git's version control, employing branching strategies, pull requests, and code reviews for efficient team collaboration and code management in data pipeline development.
@@ -30,8 +30,8 @@ Excels at developing and monitoring metrics, identifying new signals, and perfor
 
 •Power BI Visualization: Utilizing Power BI, skilled in crafting impactful visualizations and interactive dashboards to effectively communicate complex data insights, supporting informed decision-making throughout the pipeline.
 
-#Data Analyst Intern
-#Bioscript Solutions (june 2023- Present)
+# Data Analyst Intern
+# Bioscript Solutions (june 2023- Present)
 • Reporting on patients’ diabetes data and extracting insights for data driven decision making
 • Building data models that support the business functions
 • Troubleshoot reports performance and data accuracy 
@@ -39,8 +39,8 @@ Excels at developing and monitoring metrics, identifying new signals, and perfor
 • Maintaining business logic and making sure they are all up to date
 • Working on Snowflake to build reports and using Looker for visualization
 
-#Peer Tutor 
-#College of the North Atlantic (Feb 2022 - Sep 2022)
+# Peer Tutor 
+# College of the North Atlantic (Feb 2022 - Sep 2022)
 • Tutored students in Java, JavaScript, Python, and SQL
 • Gathered teaching resources for tutoring sessions
 • Scheduled tutoring sessions and submitted bi-weekly timesheets for each student tutored• Tutored students in Java, JavaScript, Python, and SQL 
@@ -48,8 +48,8 @@ Excels at developing and monitoring metrics, identifying new signals, and perfor
 • Scheduled tutoring sessions and submitted bi-weekly timesheets for each student tutored
 • Skills: HTML5 · Python (Programming Language) · JavaScript · Cascading Style Sheets (CSS) · HTML · Java · SQL
 
-#Financial Reporting AnalystFinancial Reporting Analyst
-#FMI Group (Nov 2019 - Nov 2021)
+# Financial Reporting AnalystFinancial Reporting Analyst
+# FMI Group (Nov 2019 - Nov 2021)
 • Use SQL to generate reports.
 • Building finance reports for management. 
 • Reporting quarterly sales vs labor cost. 
@@ -57,8 +57,8 @@ Excels at developing and monitoring metrics, identifying new signals, and perfor
 • Complete statistical and financial reports.
 • Using Data Studio and Google Big Query
 
-#Data Analyst
-#Smartware (Nov 2016 - Jan 2019) 
+# Data Analyst
+# Smartware (Nov 2016 - Jan 2019) 
 
 • Creating reports using SQL on Oracle Database.
 • Creating stored procedures to normalize the data using PL/SQL.
@@ -74,8 +74,8 @@ Excels at developing and monitoring metrics, identifying new signals, and perfor
 • Participating in requirements gathering.
 • Skills: Agile Methodologies
 
-###Education
-#BBDS Data Science &Artificial intelligence B17BBDS Data Science &Artificial intelligence B17
+### Education
+# BBDS Data Science &Artificial intelligence B17BBDS Data Science &Artificial intelligence B17
 Certificate , Data ScienceCertificate , Data Science
 Jan 2023 - Jun 2023Jan 2023 - Jun 2023
 To maintain a competitive edge, today’s organizations must gain practical knowledge of data science, machine learning and artificial
@@ -86,8 +86,8 @@ will dive deep into learning the applied mathematical structure of core machine 
 focuses on the skills needed to work efficiently with machine learning models, such classification models, regression models, clustering
 models, and optimization.
 
-#Memorial University of NewfoundlandMemorial University of Newfoundland
-#Postgraduate ,Accelerated Software DevelopmentPostgraduate ,Accelerated Software Development
+# Memorial University of NewfoundlandMemorial University of Newfoundland
+# Postgraduate ,Accelerated Software DevelopmentPostgraduate ,Accelerated Software Development
 Sep 2021 - Sep 2022Sep 2021 - Sep 2022
 Courses concentrate on application development, database design, systems analysis, team building, and best practices. The programs diversity provides opportunities for the student to acquire the skills, professionalism and adaptability required to succeed in a dynamic and challenging field as a software developer.
 In the last semester, students complete an applied software development project and a seven-week work exposure that enables us to apply knowledge and utilize skills developed during the program.
@@ -98,8 +98,8 @@ In the last semester, students complete an applied software development project 
 - System Analysis & Software Design
 - Security for Programmers
 
-#SADAT ACADEMY for MANAGEMENT SCIENCESSADAT ACADEMY for MANAGEMENT SCIENCES
-#Bachelor's degree, Business Administration and Management, GeneralBachelor's degree, Business Administration and Management, General
+# SADAT ACADEMY for MANAGEMENT SCIENCESSADAT ACADEMY for MANAGEMENT SCIENCES
+# Bachelor's degree, Business Administration and Management, GeneralBachelor's degree, Business Administration and Management, General
  May 2007 - Jun 2011
 
 
