@@ -17,7 +17,7 @@ Excels at developing and monitoring metrics, identifying new signals, and perfor
 • Interpersonal, organizational, leadership and teamwork skills sharpened by more than 7 years of 
    experience in customer service and support.
    
-### Professional Experience 
+# Professional Experience 
 # Data Analyst 
 # Bioscript Solutions (june 2023- Present)
 • Reporting on patients’ diabetes data and extracting insights for data driven decision making
