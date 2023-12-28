@@ -20,24 +20,21 @@ Excels at developing and monitoring metrics, identifying new signals, and perfor
 # Professional Experience 
 # Data Analyst 
 # Bioscript Solutions (june 2023- Present)
+- SQL & DBT Proficiency: Mastery in SQL for seamless data manipulation and DBT expertise for creating reliable, modular data transformations, ensuring high-quality outputs. Proficient in data modeling to design efficient database structures.              
+- Git Collaboration: Skilled in Git's version control, employing branching strategies, pull requests, and code reviews for efficient team collaboration and code management in data pipeline development.                
+- DevOps Data Integration: Integrating data workflows into DevOps practices, automating testing, deployment, and monitoring for continuous data pipeline improvements and optimization.                  
+- SSIS Expertise: Proficient in SSIS for Microsoft SQL Server, adeptly developing and deploying ETL packages to create robust, scalable data workflows, and integrations for data pipeline orchestration.                
+- Power BI Visualization: Utilizing Power BI, skilled in crafting impactful visualizations and interactive dashboards to effectively communicate complex data insights, supporting informed decision-making throughout the pipeline.
+                           
+
+# Data Analyst Intern
+# AMP Health(june 2022- November 2022)
 - Reporting on patients’ diabetes data and extracting insights for data driven decision making                                      
 - Building data models that support the business functions                                    
 - Troubleshoot reports performance and data accuracy                       
 - Use stitch to integrate customer.io and ingest the data into Snowflake                                         
 - Maintaining business logic and making sure they are all up to date                                       
-- Working on Snowflake to build reports and using Looker for visualization                               
-
-# Data Analyst Intern
-# AMP Health(june 2022- November 2022)
-- SQL & DBT Proficiency: Mastery in SQL for seamless data manipulation and DBT expertise for creating reliable, modular data transformations, ensuring high-quality outputs. Proficient in data modeling to design efficient database structures.              
- 
-- Git Collaboration: Skilled in Git's version control, employing branching strategies, pull requests, and code reviews for efficient team collaboration and code management in data pipeline development.                
-
-- DevOps Data Integration: Integrating data workflows into DevOps practices, automating testing, deployment, and monitoring for continuous data pipeline improvements and optimization.                  
-
-- SSIS Expertise: Proficient in SSIS for Microsoft SQL Server, adeptly developing and deploying ETL packages to create robust, scalable data workflows, and integrations for data pipeline orchestration.                
-
-- Power BI Visualization: Utilizing Power BI, skilled in crafting impactful visualizations and interactive dashboards to effectively communicate complex data insights, supporting informed decision-making throughout the pipeline.            
+- Working on Snowflake to build reports and using Looker for visualization     
 
 # Peer Tutor 
 # College of the North Atlantic (Feb 2022 - Sep 2022)
