@@ -72,7 +72,7 @@ Excels at developing and monitoring metrics, identifying new signals, and perfor
 - Skills: Agile Methodologies
 
 ### Education
-# BBDS Data Science &Artificial intelligence B17BBDS Data Science &Artificial intelligence B17
+# BBDS Data Science &Artificial intelligence 
 - Certificate , Data ScienceCertificate , Data Science
 - Jan 2023 - Jun 2023Jan 2023 - Jun 2023
 - To maintain a competitive edge, today’s organizations must gain practical knowledge of data science, machine learning and artificial
