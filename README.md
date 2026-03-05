@@ -26,15 +26,16 @@ Results-driven Senior Data Analyst with 8+ years of experience designing and opt
 # Senior Data Analyst 
 # Bioscript Solutions (june 2023- Present)
 	•	SQL & DBT Proficiency: Mastery in SQL for seamless data manipulation and DBT expertise for creating reliable, modular data transformations,            ensuring high-quality outputs. Proficient in data modeling to design efficient database structures.
-	•	Financial Data Modeling (dbt): Architected and maintained modular dbt models to transform raw pharmacy and clinic transaction data into "source-       of-truth" datasets for revenue and margin reporting.
+	•	Financial Data Modeling (dbt): Architected and maintained modular dbt models to transform raw pharmacy and clinic transaction data into   
+	    "source-       of-truth" datasets for revenue and margin reporting.
 	•	Automated Financial QA: Developed rigorous dbt tests and data quality monitors to catch billing anomalies, ensuring that healthcare          
-      practitioners and finance stakeholders have trusted, audit-ready data.
+        practitioners and finance stakeholders have trusted, audit-ready data.
 	•	Operational Efficiency: Modernized legacy financial reporting by migrating manual Excel-based billing trackers into automated cloud-based  
-      pipelines (Snowflake/Azure), cutting reporting time by 40%.
+        pipelines (Snowflake/Azure), cutting reporting time by 40%.
 	•	Power BI Visualization: Utilizing Power BI, skilled in crafting impactful visualizations and interactive dashboards to effectively communicate 
-      complex data insights, supporting informed decision-making throughout the pipeline.
+        complex data insights, supporting informed decision-making throughout the pipeline.
 	•	DevOps for Finance: Managed the full lifecycle of financial data products using GitHub for version control, ensuring all changes to financial 
-      logic were peer-reviewed and documented for compliance.
+        logic were peer-reviewed and documented for compliance.
                            
 
 # Data Analyst Intern
@@ -81,7 +82,7 @@ Results-driven Senior Data Analyst with 8+ years of experience designing and opt
 - Participating in requirements gathering.
 - Skills: Agile Methodologies
 
-### Education
+# Education
 # BBDS Data Science &Artificial intelligence 
 - Certificate , Data ScienceCertificate , Data Science
 - Jan 2023 - Jun 2023Jan 2023 - Jun 2023
