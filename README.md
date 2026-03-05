@@ -1,4 +1,4 @@
-#Senior Data Analyst
+# Senior Data Analyst
 - Canada 
 - Cell:+(506)6884001 
 - Email:mohamed.baioumy1@outlook.com
@@ -6,25 +6,35 @@
 Data Analyst, Advanced Analytics, Data Visualization, SQL, Python, Power PI, Looker, Tableau, Snowflake, Amazon Redshift, DBT, SSIS
 
 # Summary
-Hard worker and highly motivated Data Analyst with experience in reporting, data analysis, and software development experience. 
-Excels at developing and monitoring metrics, identifying new signals, and performing deep analysis of systems. Solutions-oriented with deep attention to details.
-- Strong analytical and problem-solving skills developed though 4 years of post-secondary training in 
-   software development.
-- Proficient with SQL, Python, Snowflake, Redshift, Looker and Data Studio, Asana, GitHub/GIT and ETLs, 
-   Mode, Jupyter note book, Customer.IO, Stitch.
-   BIG Query, AWS, JavaScript, Angular, React, jQuery, CSS, HTML, Java, Python, Flask, Jinja2.
-- Experienced with IDEs such as VS Code, IntelliJ IDEA, and PyCharm.
-- Interpersonal, organizational, leadership and teamwork skills sharpened by more than 7 years of 
-   experience in customer service and support.
+
+Results-driven Senior Data Analyst with 8+ years of experience designing and optimizing data pipelines, models, and dashboards to empower teams and senior leadership to make smarter, faster decisions. Strong expertise in SQL, DBT, Power Bi, Looker, Snowflake, and Python, Proven track record of partnering with Finance and Revenue teams to deliver actionable insights into revenue, billing, and operational performance. Passionate about supporting the healthcare community and thriving in remote-first, high-growth environments that value curiosity and data integrity.
+
+# KEY SKILLS
+	•	Data Analyst & Data Engineering 
+	•	Financial Analytics: Revenue analysis, MRR/ARR tracking, payment reconciliation, billing performance, and cost-reduction strategies.
+	•	Programming & Scripting: Python, Java, SQL
+	•	Data Analysis & BI: Looker, Power BI, Tableau, Google Data Studio
+	•	SQL & Data Modeling: DBT, Snowflake, Redshift, BigQuery
+	•	ETL & Pipelines: SSIS, Stitch, Python scripting, DBT
+	•	Cloud & Tools: AWS, Google Cloud Platform, Amazon S3
+	•	Collaboration: Stakeholder engagement, KPI development, cross-functional teams
+	•	Version Control & DevOps: Git/GitHub, CI/CD for data workflows
+	•	Agile Practices: Sprint planning, backlog grooming, delivery metrics
+	•	Marketing & Business Support: Reporting for customer behavior, retention, engagement
    
 # Professional Experience 
 # Senior Data Analyst 
 # Bioscript Solutions (june 2023- Present)
-- SQL & DBT Proficiency: Mastery in SQL for seamless data manipulation and DBT expertise for creating reliable, modular data transformations, ensuring high-quality outputs. Proficient in data modeling to design efficient database structures.              
-- Git Collaboration: Skilled in Git's version control, employing branching strategies, pull requests, and code reviews for efficient team collaboration and code management in data pipeline development.                
-- DevOps Data Integration: Integrating data workflows into DevOps practices, automating testing, deployment, and monitoring for continuous data pipeline improvements and optimization.                  
-- SSIS Expertise: Proficient in SSIS for Microsoft SQL Server, adeptly developing and deploying ETL packages to create robust, scalable data workflows, and integrations for data pipeline orchestration.                
-- Power BI Visualization: Utilizing Power BI, skilled in crafting impactful visualizations and interactive dashboards to effectively communicate complex data insights, supporting informed decision-making throughout the pipeline.
+	•	SQL & DBT Proficiency: Mastery in SQL for seamless data manipulation and DBT expertise for creating reliable, modular data transformations,            ensuring high-quality outputs. Proficient in data modeling to design efficient database structures.
+	•	Financial Data Modeling (dbt): Architected and maintained modular dbt models to transform raw pharmacy and clinic transaction data into "source-       of-truth" datasets for revenue and margin reporting.
+	•	Automated Financial QA: Developed rigorous dbt tests and data quality monitors to catch billing anomalies, ensuring that healthcare          
+      practitioners and finance stakeholders have trusted, audit-ready data.
+	•	Operational Efficiency: Modernized legacy financial reporting by migrating manual Excel-based billing trackers into automated cloud-based  
+      pipelines (Snowflake/Azure), cutting reporting time by 40%.
+	•	Power BI Visualization: Utilizing Power BI, skilled in crafting impactful visualizations and interactive dashboards to effectively communicate 
+      complex data insights, supporting informed decision-making throughout the pipeline.
+	•	DevOps for Finance: Managed the full lifecycle of financial data products using GitHub for version control, ensuring all changes to financial 
+      logic were peer-reviewed and documented for compliance.
                            
 
 # Data Analyst Intern
@@ -98,6 +108,24 @@ In the last semester, students complete an applied software development project 
 # SADAT ACADEMY 
 # Bachelor's degree, Business Administration and Management
  - May 2007 - Jun 2011
+
+# Udemy:
+	•	DP-203 - Data Engineering on Microsoft Azure.
+	•	The complete dbt Bootcamp: Zero to Hero.
+	•	Advanced SQL for Data Engineering. 
+	•	DAX Optimiztion and Preformance.     
+       
+# LinkedIn Learning:
+	•	SQL Essential Training (certificate).
+	•	SQL (HackerRank certificate).
+	•	HTML Essential Training (certificate).
+	•	Java Script Essential Training (certificate).
+	•	CSS Essential Training (certificate).
+	•	Python Essential Training (certificate).
+	•	Learning Personal Branding (certificate).
+
+# Soft Skills
+Teamwork, Team player, team communication, coordinate the work between the team, smart, handling business risk, using zoom for communicating and another tools, use data analysis to help influence, use data analytics and visual method.
 
 
 
