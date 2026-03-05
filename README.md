@@ -1,4 +1,4 @@
-# Data Analyst
+#Senior Data Analyst
 - Canada 
 - Cell:+(506)6884001 
 - Email:mohamed.baioumy1@outlook.com
@@ -18,7 +18,7 @@ Excels at developing and monitoring metrics, identifying new signals, and perfor
    experience in customer service and support.
    
 # Professional Experience 
-# Data Analyst 
+# Senior Data Analyst 
 # Bioscript Solutions (june 2023- Present)
 - SQL & DBT Proficiency: Mastery in SQL for seamless data manipulation and DBT expertise for creating reliable, modular data transformations, ensuring high-quality outputs. Proficient in data modeling to design efficient database structures.              
 - Git Collaboration: Skilled in Git's version control, employing branching strategies, pull requests, and code reviews for efficient team collaboration and code management in data pipeline development.                
