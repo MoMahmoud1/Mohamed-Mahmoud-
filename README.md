@@ -25,16 +25,17 @@ Results-driven Senior Data Analyst with 8+ years of experience designing and opt
 # Professional Experience 
 # Senior Data Analyst 
 # Bioscript Solutions (june 2023- Present)
-	•	SQL & DBT Proficiency: Mastery in SQL for seamless data manipulation and DBT expertise for creating reliable, modular data transformations,            ensuring high-quality outputs. Proficient in data modeling to design efficient database structures.
-	•	Financial Data Modeling (dbt): Architected and maintained modular dbt models to transform raw pharmacy and clinic transaction data into   
-	    "source-       of-truth" datasets for revenue and margin reporting.
-	•	Automated Financial QA: Developed rigorous dbt tests and data quality monitors to catch billing anomalies, ensuring that healthcare          
-        practitioners and finance stakeholders have trusted, audit-ready data.
-	•	Operational Efficiency: Modernized legacy financial reporting by migrating manual Excel-based billing trackers into automated cloud-based  
-        pipelines (Snowflake/Azure), cutting reporting time by 40%.
-	•	Power BI Visualization: Utilizing Power BI, skilled in crafting impactful visualizations and interactive dashboards to effectively communicate 
-        complex data insights, supporting informed decision-making throughout the pipeline.
-	•	DevOps for Finance: Managed the full lifecycle of financial data products using GitHub for version control, ensuring all changes to financial 
+- SQL & DBT Proficiency: Mastery in SQL for seamless data manipulation and DBT expertise for creating reliable, modular data transformations,               
+     ensuring high-quality outputs. Proficient in data modeling to design efficient database structures.
+-  Financial Data Modeling (dbt): Architected and maintained modular dbt models to transform raw pharmacy and clinic transaction data  into	                        
+      "source-       of-truth" datasets for revenue and margin reporting.
+-  Automated Financial QA: Developed rigorous dbt tests and data quality monitors to catch billing anomalies, ensuring that healthcare          
+      practitioners and finance stakeholders have trusted, audit-ready data.
+-  Operational Efficiency: Modernized legacy financial reporting by migrating manual Excel-based billing trackers into automated cloud-based  
+      pipelines (Snowflake/Azure), cutting reporting time by 40%.
+-  Power BI Visualization: Utilizing Power BI, skilled in crafting impactful visualizations and interactive dashboards to effectively communicate 
+       complex data insights, supporting informed decision-making throughout the pipeline.
+-   DevOps for Finance: Managed the full lifecycle of financial data products using GitHub for version control, ensuring all changes to financial 
         logic were peer-reviewed and documented for compliance.
                            
 
@@ -51,7 +52,8 @@ Results-driven Senior Data Analyst with 8+ years of experience designing and opt
 # College of the North Atlantic (Feb 2022 - Sep 2022)
 - Tutored students in Java, JavaScript, Python, and SQL
 - Gathered teaching resources for tutoring sessions
-- Scheduled tutoring sessions and submitted bi-weekly timesheets for each student tutored• Tutored students in Java, JavaScript, Python, and SQL 
+- Scheduled tutoring sessions and submitted bi-weekly timesheets for each student tutored• Tutored students in Java, JavaScript, Python, and                   
+     SQL 
 - Gathered teaching resources for tutoring sessions 
 - Scheduled tutoring sessions and submitted bi-weekly timesheets for each student tutored
 - Skills: HTML5 · Python (Programming Language) · JavaScript · Cascading Style Sheets (CSS) · HTML · Java · SQL
@@ -87,17 +89,18 @@ Results-driven Senior Data Analyst with 8+ years of experience designing and opt
 - Certificate , Data ScienceCertificate , Data Science
 - Jan 2023 - Jun 2023Jan 2023 - Jun 2023
 - To maintain a competitive edge, today’s organizations must gain practical knowledge of data science, machine learning and artificial
-intelligence. Careers especially in engineering, data science, and technical management depend on the immense value of those advanced
+      intelligence. Careers especially in engineering, data science, and technical management depend on the immense value of those advanced
 - analytical and programming skills.
-In the Data Science & Machine Learning program from zero to hero program, an executive education program led by the Big Bang Data, you
-will dive deep into learning the applied mathematical structure of core machine learning (ML) and artificial intelligence (AI) methods. The course
-focuses on the skills needed to work efficiently with machine learning models, such classification models, regression models, clustering
-models, and optimization.
+   In the Data Science & Machine Learning program from zero to hero program, an executive education program led by the Big Bang Data, you
+   will dive deep into learning the applied mathematical structure of core machine learning (ML) and artificial intelligence (AI) methods. The course
+   focuses on the skills needed to work efficiently with machine learning models, such classification models, regression models, clustering
+   models, and optimization.
 
 # Memorial University
 # Postgraduate ,Accelerated Software Development
 - Sep 2021 - Sep 2022Sep 2021 - Sep 2022
-- Courses concentrate on application development, database design, systems analysis, team building, and best practices. The programs diversity provides opportunities for the student to acquire the skills, professionalism and adaptability required to succeed in a dynamic and challenging field as a software developer.
+- Courses concentrate on application development, database design, systems analysis, team building, and best practices. The programs diversity         
+   provides opportunities for the student to acquire the skills, professionalism and adaptability required to succeed in a dynamic and challenging field as a software developer.
 In the last semester, students complete an applied software development project and a seven-week work exposure that enables us to apply knowledge and utilize skills developed during the program.
 - Python
 - Java
@@ -114,7 +117,7 @@ In the last semester, students complete an applied software development project 
 	•	DP-203 - Data Engineering on Microsoft Azure.
 	•	The complete dbt Bootcamp: Zero to Hero.
 	•	Advanced SQL for Data Engineering. 
-	•	DAX Optimiztion and Preformance.     
+	•	DAX Optimization and Performance.     
        
 # LinkedIn Learning:
 	•	SQL Essential Training (certificate).
