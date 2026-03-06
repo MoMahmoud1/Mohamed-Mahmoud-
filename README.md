@@ -17,7 +17,7 @@ Results-driven Senior Data Analyst with 8+ years of experience designing and opt
 	- SQL & Data Modeling: DBT, Snowflake, Redshift, BigQuery
 	- ETL & Pipelines: SSIS, Stitch, Python scripting, DBT
 	- Cloud & Tools: AWS, Google Cloud Platform, Amazon S3
-	- Collaboration: Stakeholder engagement, KPI development, cross-functional teams
+	- Collaboration: Stakeholder engagement, KPI development,cross-functional teams
 	- Version Control & DevOps: Git/GitHub, CI/CD for data workflows
 	- Agile Practices: Sprint planning, backlog grooming, delivery metrics
 	- Marketing & Business Support: Reporting for customer behavior, retention, engagement
